@@ -52,6 +52,7 @@ fixtures=[
     # {"doctype":"Custom DocPerm"},
     {"doctype":"Custom Field", "filters":{"module": ["in", ["Homegenie"]]}},
     {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
+    {"doctype":"DocType", "filters":{"module": ["in", ["Homegenie"]]}}
     # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
 ]
 
