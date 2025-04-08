@@ -51,8 +51,8 @@ fixtures=[
     # "Labour Attendance Tool","Order Confirmation Form","Order Form Item","ERF Item Table","Estimation Request Form","Labour Attendance","Labours",
     # {"doctype":"Custom DocPerm"},
     {"doctype":"Custom Field", "filters":{"module": ["in", ["Homegenie"]]}},
-    {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
-    {"doctype":"DocType", "filters":{"module": ["in", ["Homegenie"]]}}
+   # {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
+   # {"doctype":"DocType", "filters":{"module": ["in", ["Homegenie"]]}}
     # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
 ]
 
