@@ -56,14 +56,14 @@ app_license = "MIT"
     # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
 
 
-fixtures = [
-    {
-        "dt": "Custom Field",
-        "filters": [
-            ["name", "=", "custom_kac"] 
-        ]
-    }
-]
+fixtures = [ "Custom Field","Property Setter"]
+    # {
+    #     "dt": "Custom Field",
+    #     "filters": [
+    #         ["name", "=", "custom_kac"] 
+    #     ]
+    # }
+
 
 
 # Home Pages
