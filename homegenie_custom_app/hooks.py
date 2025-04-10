@@ -56,7 +56,7 @@ doctype_js = {
     # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
 
 
-fixtures = [ "Custom Field","Property Setter"]
+# fixtures = [ "Custom Field","Property Setter"]
     # {
     #     "dt": "Custom Field",
     #     "filters": [
