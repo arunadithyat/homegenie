@@ -169,23 +169,23 @@ scheduler_events = {
 		]
     }
 }
-scheduler_events = {
-	"all": [
-		"homegenie_custom_app.tasks.all"
-	],
-	"daily": [
-		"homegenie_custom_app.tasks.daily"
-	],
-	"hourly": [
-		"homegenie_custom_app.tasks.hourly"
-	],
-	"weekly": [
-		"homegenie_custom_app.tasks.weekly"
-	],
-	"monthly": [
-		"homegenie_custom_app.tasks.monthly"
-	],
-}
+# scheduler_events = {
+# 	"all": [
+# 		"homegenie_custom_app.tasks.all"
+# 	],
+# 	"daily": [
+# 		"homegenie_custom_app.tasks.daily"
+# 	],
+# 	"hourly": [
+# 		"homegenie_custom_app.tasks.hourly"
+# 	],
+# 	"weekly": [
+# 		"homegenie_custom_app.tasks.weekly"
+# 	],
+# 	"monthly": [
+# 		"homegenie_custom_app.tasks.monthly"
+# 	],
+# }
 
 # Testing
 # -------
