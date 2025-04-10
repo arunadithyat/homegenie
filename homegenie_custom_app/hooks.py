@@ -30,18 +30,18 @@ app_license = "MIT"
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-# doctype_js = {
-#     "Customer" : "public/customer/customer.js",
-#     "Maintenance Visit":"public/customer/customer.js",
-#     "Event":"public/event/event.js",
-#     "Issue":"public/customer/customer.js",
-#     "Company":"public/js/company.js",
-#     "Sales Invoice":"public/js/sales_invoice.js",
-#     "Installation Note":"public/js/installation_note.js",
-#     "Customer": "public/js/customer.js",
-#     "Job Applicant": "public/js/job_applicant.js",
-#     "Razorpay Settings": "public/js/razorpay_setting.js",
-#     }
+doctype_js = {
+    "Customer" : "public/customer/customer.js",
+    "Maintenance Visit":"public/customer/customer.js",
+    "Event":"public/event/event.js",
+    "Issue":"public/customer/customer.js",
+    "Company":"public/js/company.js",
+    "Sales Invoice":"public/js/sales_invoice.js",
+    "Installation Note":"public/js/installation_note.js",
+    "Customer": "public/js/customer.js",
+    "Job Applicant": "public/js/job_applicant.js",
+    "Razorpay Settings": "public/js/razorpay_setting.js",
+    }
    
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
@@ -150,42 +150,42 @@ fixtures = [ "Custom Field","Property Setter"]
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-# 	"Quotation": {
-#         "on_submit":"homegenie_custom_app.homegenie.doctype.installation_request.installation_request.get_connection_of_quo_to_ir"
-# 	},
-#     "Installation Note":{
-#         "on_submit":"homegenie_custom_app.homegenie.api.get_connection_of_si_to_ins",
-#         "on_change":"homegenie_custom_app.homegenie.api.technician_validation"
-#     }
-# }
+doc_events = {
+	"Quotation": {
+        "on_submit":"homegenie_custom_app.homegenie.doctype.installation_request.installation_request.get_connection_of_quo_to_ir"
+	},
+    "Installation Note":{
+        "on_submit":"homegenie_custom_app.homegenie.api.get_connection_of_si_to_ins",
+        "on_change":"homegenie_custom_app.homegenie.api.technician_validation"
+    }
+}
 
 # # Scheduled Tasks
 # # ---------------
-# scheduler_events = {
-# 	"cron": {
-# 		"*/30 * * * *" : [
-# 			"homegenie_custom_app.homegenie.api.shift_sync_checkin"
-# 		]
-#     }
-# }
-# scheduler_events = {
-#	"all": [
-#		"homegenie_custom_app.tasks.all"
-#	],
-#	"daily": [
-#		"homegenie_custom_app.tasks.daily"
-#	],
-#	"hourly": [
-#		"homegenie_custom_app.tasks.hourly"
-#	],
-#	"weekly": [
-#		"homegenie_custom_app.tasks.weekly"
-#	],
-#	"monthly": [
-#		"homegenie_custom_app.tasks.monthly"
-#	],
-# }
+scheduler_events = {
+	"cron": {
+		"*/30 * * * *" : [
+			"homegenie_custom_app.homegenie.api.shift_sync_checkin"
+		]
+    }
+}
+scheduler_events = {
+	"all": [
+		"homegenie_custom_app.tasks.all"
+	],
+	"daily": [
+		"homegenie_custom_app.tasks.daily"
+	],
+	"hourly": [
+		"homegenie_custom_app.tasks.hourly"
+	],
+	"weekly": [
+		"homegenie_custom_app.tasks.weekly"
+	],
+	"monthly": [
+		"homegenie_custom_app.tasks.monthly"
+	],
+}
 
 # Testing
 # -------
@@ -213,7 +213,7 @@ fixtures = [ "Custom Field","Property Setter"]
 # Ignore links to specified DocTypes when deleting documents
 # -----------------------------------------------------------
 
-# ignore_links_on_delete = ["Quotation","Installation Request"]
+ignore_links_on_delete = ["Quotation","Installation Request"]
 # ignore_links_on_cancel = ["Quotation","Installation Request"]
 
 # Request Events
