@@ -47,13 +47,13 @@ doctype_js = {
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
-fixtures=[
+fixtures=["Custom Field","Property Setter"]
     # "Labour Attendance Tool","Order Confirmation Form","Order Form Item","ERF Item Table","Estimation Request Form","Labour Attendance","Labours",
     # {"doctype":"Custom DocPerm"},
-    {"doctype":"Custom Field", "filters":{"module": ["in", ["Homegenie"]]}},
-    {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
+   # {"doctype":"Custom Field", "filters":{"module": ["in", ["Homegenie"]]}},
+   # {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
     # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
-]
+# ]
 
 # Home Pages
 # ----------
