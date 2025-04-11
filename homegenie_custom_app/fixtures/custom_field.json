@@ -12,7 +12,6 @@
   "docstatus": 0,
   "doctype": "Custom Field",
   "dt": "Company",
-<<<<<<< HEAD
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "hr_and_payroll_tab",
@@ -29368,8 +29367,6 @@
   "docstatus": 0,
   "doctype": "Custom Field",
   "dt": "Project Template",
-=======
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "hr_and_payroll_tab",
@@ -31481,13 +31478,10 @@
   "dt": "Web Form",
   "fetch_from": null,
   "fetch_if_empty": 0,
-<<<<<<< HEAD
   "fieldname": "custom_department",
   "fieldtype": "Link",
-=======
   "fieldname": "accept_payment",
   "fieldtype": "Check",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "hidden": 0,
   "hide_border": 0,
   "hide_days": 0,
@@ -31498,7 +31492,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "disabled",
   "is_system_generated": 0,
   "is_virtual": 0,
@@ -31512,7 +31505,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": "Identification Document Type",
-=======
   "insert_after": "payments",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -32723,7 +32715,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
@@ -34463,7 +34454,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "Event",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -34636,9 +34626,7 @@
   "docstatus": 0,
   "doctype": "Custom Field",
   "dt": "Smartflo Agents",
-=======
   "dt": "Quotation",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "is_export_with_gst",
@@ -34866,8 +34854,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
-=======
   "dt": "Item Tax Template",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -34925,7 +34911,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "dt": "Event",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -34954,7 +34939,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
-<<<<<<< HEAD
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
@@ -35240,8 +35224,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": "Country",
-=======
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
@@ -35274,7 +35256,6 @@
   "dt": "Event",
   "fetch_from": null,
   "fetch_if_empty": 0,
-<<<<<<< HEAD
   "fieldname": "custom_template_table",
   "fieldtype": "Table",
   "hidden": 0,
@@ -40121,9 +40102,7 @@
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "custom_width",
-=======
   "fieldname": "custom_validate",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "fieldtype": "Data",
   "hidden": 0,
   "hide_border": 0,
@@ -40177,17 +40156,14 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "Lead",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "custom_product_quantity",
-=======
   "dt": "Delivery Note Item",
   "fetch_from": "item_code.gst_hsn_code",
   "fetch_if_empty": 1,
   "fieldname": "gst_hsn_code",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "fieldtype": "Data",
   "hidden": 0,
   "hide_border": 0,
@@ -40199,7 +40175,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "custom_column_break_jecdy",
   "is_system_generated": 0,
   "is_virtual": 0,
@@ -40210,7 +40185,6 @@
   "modified": "2024-09-10 11:29:17.864146",
   "module": "Hg Leads",
   "name": "Lead-custom_product_quantity",
-=======
   "insert_after": "description",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -40221,7 +40195,6 @@
   "modified": "2025-04-08 13:11:46.579194",
   "module": "GST India",
   "name": "Delivery Note Item-gst_hsn_code",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
@@ -40250,8 +40223,6 @@
   "collapsible_depends_on": null,
   "columns": 0,
   "default": null,
-<<<<<<< HEAD
-=======
   "depends_on": null,
   "description": null,
   "docstatus": 0,
@@ -40480,24 +40451,20 @@
   "collapsible_depends_on": null,
   "columns": 0,
   "default": "1",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "depends_on": null,
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "Employee",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "shift_request_approver",
   "fieldtype": "Link",
-=======
   "dt": "Print Settings",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "compact_item_print",
   "fieldtype": "Check",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "hidden": 0,
   "hide_border": 0,
   "hide_days": 0,
@@ -40508,7 +40475,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "column_break_45",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -40522,7 +40488,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": "User",
-=======
   "insert_after": "with_letterhead",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -40821,7 +40786,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
@@ -40851,19 +40815,16 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "User",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "headline",
   "fieldtype": "Data",
-=======
   "dt": "Employee Tax Exemption Declaration",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "hra_section",
   "fieldtype": "Section Break",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "hidden": 0,
   "hide_border": 0,
   "hide_days": 0,
@@ -40874,7 +40835,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "mute_sounds",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -40885,7 +40845,6 @@
   "modified": "2022-02-23 17:37:11.025946",
   "module": "",
   "name": "User-headline",
-=======
   "insert_after": "declarations",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -41238,7 +41197,6 @@
   "modified": "2025-04-08 13:11:47.038954",
   "module": "GST India",
   "name": "Sales Taxes and Charges-gst_tax_type",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
@@ -41271,19 +41229,16 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "Lead",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "custom_section_break_sswyq",
   "fieldtype": "Section Break",
-=======
   "dt": "Purchase Taxes and Charges",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "gst_tax_type",
   "fieldtype": "Data",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "hidden": 0,
   "hide_border": 0,
   "hide_days": 0,
@@ -41294,7 +41249,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "custom_product_quantity",
   "is_system_generated": 0,
   "is_virtual": 0,
@@ -41305,7 +41259,6 @@
   "modified": "2024-09-10 11:29:18.086806",
   "module": "Hg Leads",
   "name": "Lead-custom_section_break_sswyq",
-=======
   "insert_after": "rate",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -41430,7 +41383,6 @@
   "modified": "2025-04-10 18:15:18.773093",
   "module": null,
   "name": "Employee Tax Exemption Declaration-rented_in_metro_city",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
@@ -41463,7 +41415,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "User",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -41811,13 +41762,11 @@
   "fetch_if_empty": 1,
   "fieldname": "payroll_cost_center",
   "fieldtype": "Link",
-=======
   "dt": "Employee Tax Exemption Proof Submission",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "hra_section",
   "fieldtype": "Section Break",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "hidden": 0,
   "hide_border": 0,
   "hide_days": 0,
@@ -41828,7 +41777,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "salary_cb",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -41842,7 +41790,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": "Cost Center",
-=======
   "insert_after": "tax_exemption_proofs",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -41856,7 +41803,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
@@ -41886,19 +41832,16 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
   "dt": "Employee",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "pan_number",
   "fieldtype": "Data",
-=======
   "dt": "Event",
   "fetch_from": null,
   "fetch_if_empty": 0,
   "fieldname": "custom_check_out",
   "fieldtype": "Datetime",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "hidden": 0,
   "hide_border": 0,
   "hide_days": 0,
@@ -41909,7 +41852,6 @@
   "in_list_view": 0,
   "in_preview": 0,
   "in_standard_filter": 0,
-<<<<<<< HEAD
   "insert_after": "payroll_cost_center",
   "is_system_generated": 1,
   "is_virtual": 0,
@@ -41980,7 +41922,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
-=======
   "insert_after": "custom_check_in",
   "is_system_generated": 0,
   "is_virtual": 0,
@@ -41994,7 +41935,6 @@
   "no_copy": 0,
   "non_negative": 0,
   "options": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "permlevel": 0,
   "placeholder": null,
   "precision": "",
@@ -42027,8 +41967,6 @@
   "dt": "Employee",
   "fetch_from": null,
   "fetch_if_empty": 0,
-<<<<<<< HEAD
-=======
   "fieldname": "custom_house_verification",
   "fieldtype": "Check",
   "hidden": 0,
@@ -61010,7 +60948,6 @@
   "dt": "Employee",
   "fetch_from": null,
   "fetch_if_empty": 0,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "fieldname": "custom_bank_passbook_photo",
   "fieldtype": "Attach",
   "hidden": 0,
@@ -61065,8 +61002,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
-=======
   "dt": "Stock Entry",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -61181,7 +61116,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "dt": "Employee",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -61229,8 +61163,6 @@
  },
  {
   "allow_in_quick_entry": 0,
-<<<<<<< HEAD
-=======
   "allow_on_submit": 1,
   "bold": 0,
   "collapsible": 0,
@@ -61345,7 +61277,6 @@
  },
  {
   "allow_in_quick_entry": 0,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "allow_on_submit": 0,
   "bold": 0,
   "collapsible": 0,
@@ -61409,8 +61340,6 @@
   "collapsible_depends_on": null,
   "columns": 0,
   "default": null,
-<<<<<<< HEAD
-=======
   "depends_on": null,
   "description": null,
   "docstatus": 0,
@@ -61468,7 +61397,6 @@
   "collapsible_depends_on": null,
   "columns": 0,
   "default": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "depends_on": "eval:doc.salary_mode == \"Bank\"",
   "description": null,
   "docstatus": 0,
@@ -61522,8 +61450,6 @@
   "allow_in_quick_entry": 0,
   "allow_on_submit": 0,
   "bold": 0,
-<<<<<<< HEAD
-=======
   "collapsible": 0,
   "collapsible_depends_on": null,
   "columns": 0,
@@ -62949,7 +62875,6 @@
   "allow_in_quick_entry": 0,
   "allow_on_submit": 0,
   "bold": 0,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "collapsible": 1,
   "collapsible_depends_on": null,
   "columns": 0,
@@ -63015,8 +62940,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
-<<<<<<< HEAD
-=======
   "dt": "Stock Entry",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -63188,7 +63111,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Custom Field",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "dt": "Employee",
   "fetch_from": null,
   "fetch_if_empty": 0,
@@ -63242,8 +63164,6 @@
   "collapsible_depends_on": null,
   "columns": 0,
   "default": null,
-<<<<<<< HEAD
-=======
   "depends_on": null,
   "description": null,
   "docstatus": 0,
@@ -63358,7 +63278,6 @@
   "collapsible_depends_on": null,
   "columns": 0,
   "default": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "depends_on": "eval:doc.health_insurance_provider",
   "description": null,
   "docstatus": 0,
@@ -63407,8 +63326,6 @@
   "translatable": 1,
   "unique": 0,
   "width": null
-<<<<<<< HEAD
-=======
  },
  {
   "allow_in_quick_entry": 0,
@@ -68995,6 +68912,5 @@
   "translatable": 1,
   "unique": 0,
   "width": null
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
  }
 ]

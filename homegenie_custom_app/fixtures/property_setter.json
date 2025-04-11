@@ -359,11 +359,8 @@
   "doctype_or_field": "DocField",
   "field_name": "branch",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.722819",
-=======
   "modified": "2025-04-10 18:17:46.936928",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-branch-in_list_view",
   "property": "in_list_view",
@@ -379,11 +376,8 @@
   "doctype_or_field": "DocField",
   "field_name": "department",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.711625",
-=======
   "modified": "2025-04-10 18:17:46.899414",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-department-in_list_view",
   "property": "in_list_view",
@@ -399,11 +393,8 @@
   "doctype_or_field": "DocField",
   "field_name": "cell_number",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.728114",
-=======
-  "modified": "2025-04-10 18:17:46.958104",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
+ "modified": "2025-04-10 18:17:46.958104",
   "module": "Homegenie",
   "name": "Employee-cell_number-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -419,11 +410,8 @@
   "doctype_or_field": "DocField",
   "field_name": "final_confirmation_date",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.733405",
-=======
   "modified": "2025-04-10 18:17:46.979781",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-final_confirmation_date-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -439,11 +427,8 @@
   "doctype_or_field": "DocField",
   "field_name": "personal_email",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.738693",
-=======
   "modified": "2025-04-10 18:17:46.999272",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-personal_email-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -459,11 +444,8 @@
   "doctype_or_field": "DocField",
   "field_name": "current_address",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.743955",
-=======
   "modified": "2025-04-10 18:17:47.017159",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-current_address-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -479,11 +461,8 @@
   "doctype_or_field": "DocField",
   "field_name": "permanent_address",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.749169",
-=======
   "modified": "2025-04-10 18:17:47.035278",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-permanent_address-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -499,11 +478,8 @@
   "doctype_or_field": "DocField",
   "field_name": "emergency_phone_number",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.754435",
-=======
   "modified": "2025-04-10 18:17:47.054556",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-emergency_phone_number-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -519,11 +495,8 @@
   "doctype_or_field": "DocField",
   "field_name": "custom_aadhar_number",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.759810",
-=======
   "modified": "2025-04-10 18:17:47.074229",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-custom_aadhar_number-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -539,11 +512,8 @@
   "doctype_or_field": "DocField",
   "field_name": "ctc",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.765114",
-=======
   "modified": "2025-04-10 18:17:47.094407",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Employee-ctc-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -559,11 +529,8 @@
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.948216",
-=======
   "modified": "2025-04-10 18:17:47.691750",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Event-main-field_order",
   "property": "field_order",
@@ -579,11 +546,8 @@
   "doctype_or_field": "DocField",
   "field_name": "status",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.938274",
-=======
   "modified": "2025-04-10 18:17:47.648074",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Event-status-in_list_view",
   "property": "in_list_view",
@@ -599,11 +563,8 @@
   "doctype_or_field": "DocField",
   "field_name": "event_type",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.943249",
-=======
   "modified": "2025-04-10 18:17:47.670073",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Event-event_type-default",
   "property": "default",
@@ -619,11 +580,8 @@
   "doctype_or_field": "DocField",
   "field_name": "event_type",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.933297",
-=======
   "modified": "2025-04-10 18:17:47.624338",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Event-event_type-read_only",
   "property": "read_only",
@@ -639,11 +597,8 @@
   "doctype_or_field": "DocField",
   "field_name": "starts_on",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.928171",
-=======
   "modified": "2025-04-10 18:17:47.602855",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Event-starts_on-in_list_view",
   "property": "in_list_view",
@@ -659,11 +614,8 @@
   "doctype_or_field": "DocField",
   "field_name": "custom_product_enquired",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.922881",
-=======
   "modified": "2025-04-10 18:17:47.581686",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Event-custom_product_enquired-options",
   "property": "options",
@@ -679,11 +631,8 @@
   "doctype_or_field": "DocField",
   "field_name": "status",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.917614",
-=======
   "modified": "2025-04-10 18:17:47.563180",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Event-status-permlevel",
   "property": "permlevel",
@@ -699,11 +648,8 @@
   "doctype_or_field": "DocField",
   "field_name": "status",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.912090",
-=======
   "modified": "2025-04-10 18:17:47.544425",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Event-status-read_only",
   "property": "read_only",
@@ -719,11 +665,8 @@
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.680518",
-=======
   "modified": "2025-04-10 18:17:46.726314",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Employee-main-field_order",
   "property": "field_order",
@@ -739,11 +682,8 @@
   "doctype_or_field": "DocField",
   "field_name": "event_category",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.906130",
-=======
   "modified": "2025-04-10 18:17:47.527192",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Event-event_category-options",
   "property": "options",
@@ -6999,11 +6939,8 @@
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:46.006022",
-=======
   "modified": "2025-04-10 02:24:35.723669",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": "Homegenie",
   "name": "Smartflo Agents-main-field_order",
   "property": "field_order",
@@ -7013,8 +6950,6 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
-=======
   "doc_type": "Smartflo Agents",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -7127,18 +7062,14 @@
  },
  {
   "default_value": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "doc_type": "Call Log",
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 23:28:45.539375",
-=======
   "modified": "2025-04-10 02:24:36.338737",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Call Log-main-field_order",
   "property": "field_order",
@@ -7152,7 +7083,6 @@
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
-<<<<<<< HEAD
   "field_name": "due_date",
   "is_system_generated": 0,
   "modified": "2025-04-11 17:50:19.115257",
@@ -7161,8 +7091,7 @@
   "property": "print_hide",
   "property_type": "Check",
   "row_name": null,
-  "value": "0"
-=======
+  "value": "0",
   "field_name": "customer_name",
   "is_system_generated": 1,
   "modified": "2025-02-26 16:17:29.866242",
@@ -7172,7 +7101,6 @@
   "property_type": "Check",
   "row_name": null,
   "value": "1"
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
  },
  {
   "default_value": null,
@@ -7180,14 +7108,12 @@
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
-<<<<<<< HEAD
   "field_name": "payment_schedule",
   "is_system_generated": 0,
   "modified": "2025-04-11 17:50:19.118385",
   "module": null,
   "name": "Sales Order-payment_schedule-print_hide",
   "property": "print_hide",
-=======
   "field_name": "delivery_date",
   "is_system_generated": 1,
   "modified": "2025-02-26 16:17:29.879944",
@@ -7674,7 +7600,6 @@
   "module": null,
   "name": "Sales Order-cost_center-reqd",
   "property": "reqd",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
@@ -7685,7 +7610,6 @@
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
-<<<<<<< HEAD
   "field_name": "due_date",
   "is_system_generated": 0,
   "modified": "2025-04-11 17:50:19.123256",
@@ -7694,8 +7618,7 @@
   "property": "print_hide",
   "property_type": "Check",
   "row_name": null,
-  "value": "0"
-=======
+  "value": "0",
   "field_name": "cost_center",
   "is_system_generated": 0,
   "modified": "2024-08-14 15:48:21.129154",
@@ -7737,7 +7660,6 @@
   "property_type": "Text",
   "row_name": null,
   "value": "RT-PE-.###"
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
  },
  {
   "default_value": null,
@@ -7745,28 +7667,24 @@
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
-<<<<<<< HEAD
   "field_name": "payment_schedule",
   "is_system_generated": 0,
   "modified": "2025-04-11 17:50:19.126182",
   "module": null,
   "name": "Sales Invoice-payment_schedule-print_hide",
   "property": "print_hide",
-=======
   "field_name": "posting_date",
   "is_system_generated": 0,
   "modified": "2024-08-14 15:48:21.145409",
   "module": null,
   "name": "Sales Invoice-posting_date-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Purchase Order",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -7793,7 +7711,6 @@
   "module": null,
   "name": "Purchase Order-payment_schedule-print_hide",
   "property": "print_hide",
-=======
   "doc_type": "Payment Entry",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -7804,14 +7721,12 @@
   "module": null,
   "name": "Payment Entry-mode_of_payment-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Purchase Invoice",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -7838,7 +7753,6 @@
   "module": null,
   "name": "Purchase Invoice-payment_schedule-print_hide",
   "property": "print_hide",
-=======
   "doc_type": "Payment Entry",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -7865,7 +7779,6 @@
   "module": null,
   "name": "Quotation-custom_reference-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
@@ -7878,11 +7791,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:00:58.656076",
-=======
   "modified": "2024-08-14 15:48:17.494321",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Salary Slip-rounded_total-hidden",
   "property": "hidden",
@@ -7898,11 +7808,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:00:58.659522",
-=======
   "modified": "2024-08-14 15:48:17.472083",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Salary Slip-rounded_total-print_hide",
   "property": "print_hide",
@@ -7912,9 +7819,7 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Contact",
-=======
   "doc_type": "Stock Entry",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -8028,13 +7933,11 @@
  {
   "default_value": null,
   "doc_type": "Material Request Item",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:04:08.055473",
   "module": null,
   "name": "Contact-main-search_fields",
@@ -8055,7 +7958,6 @@
   "module": null,
   "name": "Payment Entry-main-track_changes",
   "property": "track_changes",
-=======
   "modified": "2024-08-14 15:48:14.547920",
   "module": null,
   "name": "Material Request Item-main-field_order",
@@ -8092,16 +7994,13 @@
   "module": null,
   "name": "Visit-employee-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "POS Invoice",
-=======
   "doc_type": "Project",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -8119,18 +8018,15 @@
  {
   "default_value": "1",
   "doc_type": "Attendance",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:02.058423",
   "module": null,
   "name": "POS Invoice-main-track_changes",
   "property": "track_changes",
-=======
   "is_system_generated": 0,
   "modified": "2024-08-14 15:48:15.040599",
   "module": null,
@@ -8200,14 +8096,12 @@
   "module": null,
   "name": "Job Applicant-source-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Subcontracting Receipt",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -8220,8 +8114,7 @@
   "property": "track_changes",
   "property_type": "Check",
   "row_name": null,
-  "value": "1"
-=======
+  "value": "1",
   "doc_type": "Task",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -8299,14 +8192,12 @@
   "property_type": "Code",
   "row_name": null,
   "value": ""
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
  },
  {
   "default_value": null,
   "doc_type": "Stock Entry",
   "docstatus": 0,
   "doctype": "Property Setter",
-<<<<<<< HEAD
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 1,
@@ -8314,7 +8205,6 @@
   "module": null,
   "name": "Stock Entry-main-track_changes",
   "property": "track_changes",
-=======
   "doctype_or_field": "DocField",
   "field_name": "posting_time",
   "is_system_generated": 0,
@@ -8386,16 +8276,13 @@
   "module": null,
   "name": "Delivery Note-project-allow_on_submit",
   "property": "allow_on_submit",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Invoice Discounting",
-=======
   "doc_type": "Sales Invoice",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -8429,18 +8316,15 @@
  {
   "default_value": null,
   "doc_type": "Visit",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:02.072527",
   "module": null,
   "name": "Invoice Discounting-main-track_changes",
   "property": "track_changes",
-=======
   "is_system_generated": 0,
   "modified": "2024-08-14 15:48:10.524974",
   "module": null,
@@ -9342,7 +9226,6 @@
   "module": null,
   "name": "Vehicle Log-date-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
@@ -9354,12 +9237,10 @@
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:02.076485",
   "module": null,
   "name": "Sales Invoice-main-track_changes",
-=======
   "is_system_generated": 0,
   "modified": "2024-08-14 15:48:20.838481",
   "module": null,
@@ -9716,7 +9597,6 @@
   "modified": "2023-11-17 18:47:39.320800",
   "module": null,
   "name": "Loan Write Off-main-track_changes",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property": "track_changes",
   "property_type": "Check",
   "row_name": null,
@@ -9727,7 +9607,6 @@
   "doc_type": "Stock Reconciliation",
   "docstatus": 0,
   "doctype": "Property Setter",
-<<<<<<< HEAD
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 1,
@@ -9735,7 +9614,6 @@
   "module": null,
   "name": "Stock Reconciliation-main-track_changes",
   "property": "track_changes",
-=======
   "doctype_or_field": "DocField",
   "field_name": "company",
   "is_system_generated": 0,
@@ -9743,14 +9621,12 @@
   "module": null,
   "name": "Stock Reconciliation-company-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Process Deferred Accounting",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9761,7 +9637,6 @@
   "module": null,
   "name": "Process Deferred Accounting-main-track_changes",
   "property": "track_changes",
-=======
   "doc_type": "Stock Reconciliation",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9772,14 +9647,12 @@
   "module": null,
   "name": "Stock Reconciliation-purpose-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Asset Repair",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9790,7 +9663,6 @@
   "module": null,
   "name": "Asset Repair-main-track_changes",
   "property": "track_changes",
-=======
   "doc_type": "Job Opening",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9801,14 +9673,12 @@
   "module": null,
   "name": "Job Opening-company-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Delivery Note",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9819,7 +9689,6 @@
   "module": null,
   "name": "Delivery Note-main-track_changes",
   "property": "track_changes",
-=======
   "doc_type": "Job Opening",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9830,29 +9699,23 @@
   "module": null,
   "name": "Job Opening-designation-in_standard_filter",
   "property": "in_standard_filter",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Period Closing Voucher",
-=======
   "doc_type": "Maintenance Visit",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:02.101988",
   "module": null,
   "name": "Period Closing Voucher-main-track_changes",
   "property": "track_changes",
-=======
   "is_system_generated": 0,
   "modified": "2023-12-29 13:36:04.974337",
   "module": null,
@@ -9874,16 +9737,13 @@
   "module": null,
   "name": "BOM-custom_reference-in_list_view",
   "property": "in_list_view",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Bill of Entry",
-=======
   "doc_type": "BOM",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -9901,18 +9761,15 @@
  {
   "default_value": null,
   "doc_type": "Journal Entry",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:02.107136",
   "module": null,
   "name": "Bill of Entry-main-track_changes",
   "property": "track_changes",
-=======
   "is_system_generated": 0,
   "modified": "2024-02-14 11:29:28.468458",
   "module": null,
@@ -10014,7 +9871,6 @@
   "module": null,
   "name": "Purchase Receipt-project-allow_on_submit",
   "property": "allow_on_submit",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
@@ -10024,7 +9880,6 @@
   "doc_type": "Purchase Invoice",
   "docstatus": 0,
   "doctype": "Property Setter",
-<<<<<<< HEAD
   "doctype_or_field": "DocType",
   "field_name": null,
   "is_system_generated": 1,
@@ -10032,7 +9887,6 @@
   "module": null,
   "name": "Purchase Invoice-main-track_changes",
   "property": "track_changes",
-=======
   "doctype_or_field": "DocField",
   "field_name": "project",
   "is_system_generated": 0,
@@ -10040,14 +9894,12 @@
   "module": null,
   "name": "Purchase Invoice-project-allow_on_submit",
   "property": "allow_on_submit",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Purchase Receipt",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -10204,8 +10056,7 @@
   "property": "options",
   "property_type": "Small Text",
   "row_name": null,
-  "value": "MAT-SCR-\nMAT-SCR-.YYYY.-\nMAT-SCR-RET-.YYYY.-"
-=======
+  "value": "MAT-SCR-\nMAT-SCR-.YYYY.-\nMAT-SCR-RET-.YYYY.-",
   "doc_type": "Address",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -10587,7 +10438,6 @@
   "property_type": "Data",
   "row_name": null,
   "value": "[\"item\", \"naming_series\", \"status\", \"production_item\", \"item_name\", \"image\", \"bom_no\", \"sales_order\", \"custom_item_group\", \"custom_square_feet\", \"column_break1\", \"company\", \"qty\", \"material_transferred_for_manufacturing\", \"produced_qty\", \"custom_need_rework\", \"custom_reworked_product\", \"custom_reworked_against\", \"process_loss_qty\", \"project\", \"custom_project_name\", null, \"section_break_ndpq\", \"required_items\", \"work_order_configuration\", \"settings_section\", \"allow_alternative_item\", \"use_multi_level_bom\", \"column_break_17\", \"skip_transfer\", \"from_wip_warehouse\", \"update_consumed_material_cost_in_project\", \"warehouses\", \"source_warehouse\", \"wip_warehouse\", \"column_break_12\", \"fg_warehouse\", \"scrap_warehouse\", \"serial_no_and_batch_for_finished_good_section\", \"has_serial_no\", \"has_batch_no\", \"column_break_18\", \"serial_no\", \"batch_size\", \"required_items_section\", \"materials_and_operations_tab\", \"operations_section\", \"transfer_material_against\", \"operations\", \"time\", \"planned_start_date\", \"planned_end_date\", \"expected_delivery_date\", \"column_break_13\", \"actual_start_date\", \"actual_end_date\", \"lead_time\", \"section_break_22\", \"planned_operating_cost\", \"actual_operating_cost\", \"additional_operating_cost\", \"column_break_24\", \"corrective_operation_cost\", \"total_operating_cost\", \"more_info\", \"description\", \"stock_uom\", \"column_break2\", \"custom_customer_name\", \"custom_customer_mobile\", \"material_request\", \"material_request_item\", \"sales_order_item\", \"production_plan\", \"production_plan_item\", \"production_plan_sub_assembly_item\", \"product_bundle_item\", \"amended_from\", \"connections_tab\"]"
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
  },
  {
   "default_value": null,
@@ -10596,7 +10446,6 @@
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
   "field_name": "bill_no",
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:05.864246",
   "module": null,
@@ -10657,7 +10506,6 @@
  {
   "default_value": null,
   "doc_type": "Address",
-=======
   "is_system_generated": 0,
   "modified": "2024-12-16 20:06:47.750785",
   "module": null,
@@ -10702,12 +10550,10 @@
  {
   "default_value": null,
   "doc_type": "Quotation Item",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocType",
   "field_name": null,
-<<<<<<< HEAD
   "is_system_generated": 1,
   "modified": "2025-04-11 19:05:05.880737",
   "module": null,
@@ -10715,7 +10561,6 @@
   "property": "quick_entry",
   "property_type": "Check",
   "row_name": null,
-=======
   "is_system_generated": 0,
   "modified": "2024-12-16 20:25:26.663993",
   "module": null,
@@ -10915,12 +10760,10 @@
   "property": "hidden",
   "property_type": "Check",
   "row_name": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Accounts Settings",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -10933,7 +10776,6 @@
   "property": "read_only",
   "property_type": "Check",
   "row_name": null,
-=======
   "doc_type": "Delivery Trip",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11090,12 +10932,10 @@
   "property": "in_list_view",
   "property_type": "Check",
   "row_name": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "value": "0"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Accounts Settings",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11106,7 +10946,6 @@
   "module": null,
   "name": "Accounts Settings-add_taxes_from_item_tax_template-read_only",
   "property": "read_only",
-=======
   "doc_type": "Training Event",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11117,14 +10956,12 @@
   "module": null,
   "name": "Training Event-event_name-in_list_view",
   "property": "in_list_view",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "1"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Accounts Settings",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11167,7 +11004,6 @@
   "module": null,
   "name": "Accounts Settings-tax_settings_section-collapsible",
   "property": "collapsible",
-=======
   "doc_type": "Training Event",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11226,14 +11062,12 @@
   "module": null,
   "name": "Sales Order-due_date-print_hide",
   "property": "print_hide",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "property_type": "Check",
   "row_name": null,
   "value": "0"
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Purchase Reconciliation Tool",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11646,8 +11480,7 @@
   "property": "default_print_format",
   "property_type": "Data",
   "row_name": null,
-  "value": "Certificate"
-=======
+  "value": "Certificate",
   "doc_type": "Sales Order",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -11757,7 +11590,6 @@
   "property_type": "Check",
   "row_name": null,
   "value": "1"
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
  },
  {
   "default_value": null,
@@ -11767,11 +11599,8 @@
   "doctype_or_field": "DocField",
   "field_name": "naming_series",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:27.590077",
-=======
   "modified": "2025-04-04 16:54:28.256520",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier-naming_series-reqd",
   "property": "reqd",
@@ -11787,11 +11616,8 @@
   "doctype_or_field": "DocField",
   "field_name": "naming_series",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:27.756550",
-=======
   "modified": "2025-04-04 16:54:28.894308",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier-naming_series-hidden",
   "property": "hidden",
@@ -11807,11 +11633,8 @@
   "doctype_or_field": "DocField",
   "field_name": "naming_series",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.118979",
-=======
   "modified": "2025-04-04 16:54:29.860450",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Customer-naming_series-reqd",
   "property": "reqd",
@@ -11827,11 +11650,8 @@
   "doctype_or_field": "DocField",
   "field_name": "naming_series",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.238152",
-=======
   "modified": "2025-04-04 16:54:30.341350",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Customer-naming_series-hidden",
   "property": "hidden",
@@ -11847,11 +11667,8 @@
   "doctype_or_field": "DocField",
   "field_name": "tax_id",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.249884",
-=======
   "modified": "2025-04-04 16:54:30.398406",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-tax_id-hidden",
   "property": "hidden",
@@ -11867,11 +11684,8 @@
   "doctype_or_field": "DocField",
   "field_name": "tax_id",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.255734",
-=======
   "modified": "2025-04-04 16:54:30.422302",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-tax_id-print_hide",
   "property": "print_hide",
@@ -11887,11 +11701,8 @@
   "doctype_or_field": "DocField",
   "field_name": "tax_id",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.261475",
-=======
   "modified": "2025-04-04 16:54:30.446708",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-tax_id-hidden",
   "property": "hidden",
@@ -11907,11 +11718,8 @@
   "doctype_or_field": "DocField",
   "field_name": "tax_id",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.267212",
-=======
   "modified": "2025-04-04 16:54:30.473100",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-tax_id-print_hide",
   "property": "print_hide",
@@ -11927,11 +11735,8 @@
   "doctype_or_field": "DocField",
   "field_name": "tax_id",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.273063",
-=======
   "modified": "2025-04-04 16:54:30.498704",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-tax_id-hidden",
   "property": "hidden",
@@ -11947,11 +11752,8 @@
   "doctype_or_field": "DocField",
   "field_name": "tax_id",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.278678",
-=======
   "modified": "2025-04-04 16:54:30.525526",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-tax_id-print_hide",
   "property": "print_hide",
@@ -11967,11 +11769,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rate",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.283988",
-=======
   "modified": "2025-04-04 16:54:30.550575",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Packed Item-rate-read_only",
   "property": "read_only",
@@ -11987,11 +11786,8 @@
   "doctype_or_field": "DocField",
   "field_name": "discount_account",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.291415",
-=======
   "modified": "2025-04-04 16:54:30.592937",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice Item-discount_account-hidden",
   "property": "hidden",
@@ -12007,11 +11803,8 @@
   "doctype_or_field": "DocField",
   "field_name": "discount_account",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.296654",
-=======
   "modified": "2025-04-04 16:54:30.622241",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice Item-discount_account-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -12027,11 +11820,8 @@
   "doctype_or_field": "DocField",
   "field_name": "additional_discount_account",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.302115",
-=======
   "modified": "2025-04-04 16:54:30.651464",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-additional_discount_account-hidden",
   "property": "hidden",
@@ -12047,11 +11837,8 @@
   "doctype_or_field": "DocField",
   "field_name": "additional_discount_account",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.307940",
-=======
   "modified": "2025-04-04 16:54:30.677043",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-additional_discount_account-mandatory_depends_on",
   "property": "mandatory_depends_on",
@@ -12067,11 +11854,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.532359",
-=======
   "modified": "2025-04-04 16:54:31.458701",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-base_rounded_total-hidden",
   "property": "hidden",
@@ -12087,11 +11871,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.614583",
-=======
   "modified": "2025-04-04 16:54:31.813253",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12107,11 +11888,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.619511",
-=======
   "modified": "2025-04-04 16:54:31.836186",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-rounded_total-hidden",
   "property": "hidden",
@@ -12127,11 +11905,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.624380",
-=======
   "modified": "2025-04-04 16:54:31.859096",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-rounded_total-print_hide",
   "property": "print_hide",
@@ -12147,11 +11922,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.629201",
-=======
   "modified": "2025-04-04 16:54:31.882879",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-disable_rounded_total-default",
   "property": "default",
@@ -12167,11 +11939,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.633997",
-=======
   "modified": "2025-04-04 16:54:31.905601",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-base_rounded_total-hidden",
   "property": "hidden",
@@ -12187,11 +11956,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.639063",
-=======
   "modified": "2025-04-04 16:54:31.928040",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12207,11 +11973,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.643876",
-=======
   "modified": "2025-04-04 16:54:31.950153",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-rounded_total-hidden",
   "property": "hidden",
@@ -12227,11 +11990,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.648591",
-=======
   "modified": "2025-04-04 16:54:31.973294",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-rounded_total-print_hide",
   "property": "print_hide",
@@ -12247,11 +12007,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.653365",
-=======
   "modified": "2025-04-04 16:54:31.996072",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-disable_rounded_total-default",
   "property": "default",
@@ -12267,11 +12024,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.658029",
-=======
   "modified": "2025-04-04 16:54:32.018305",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-base_rounded_total-hidden",
   "property": "hidden",
@@ -12287,11 +12041,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.662718",
-=======
   "modified": "2025-04-04 16:54:32.040308",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12307,11 +12058,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.667462",
-=======
   "modified": "2025-04-04 16:54:32.062617",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-rounded_total-hidden",
   "property": "hidden",
@@ -12327,11 +12075,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.672154",
-=======
   "modified": "2025-04-04 16:54:32.084810",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-rounded_total-print_hide",
   "property": "print_hide",
@@ -12347,11 +12092,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.676793",
-=======
   "modified": "2025-04-04 16:54:32.107647",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-disable_rounded_total-default",
   "property": "default",
@@ -12367,11 +12109,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.681555",
-=======
   "modified": "2025-04-04 16:54:32.130125",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-base_rounded_total-hidden",
   "property": "hidden",
@@ -12387,11 +12126,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.686528",
-=======
   "modified": "2025-04-04 16:54:32.155714",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12407,11 +12143,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.691466",
-=======
   "modified": "2025-04-04 16:54:32.185997",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-rounded_total-hidden",
   "property": "hidden",
@@ -12427,11 +12160,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.696397",
-=======
   "modified": "2025-04-04 16:54:32.212348",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-rounded_total-print_hide",
   "property": "print_hide",
@@ -12447,11 +12177,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.701307",
-=======
   "modified": "2025-04-04 16:54:32.236240",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-disable_rounded_total-default",
   "property": "default",
@@ -12467,11 +12194,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.706225",
-=======
   "modified": "2025-04-04 16:54:32.260115",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-base_rounded_total-hidden",
   "property": "hidden",
@@ -12487,11 +12211,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.713469",
-=======
   "modified": "2025-04-04 16:54:32.289063",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12507,11 +12228,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.718288",
-=======
   "modified": "2025-04-04 16:54:32.314573",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-rounded_total-hidden",
   "property": "hidden",
@@ -12527,11 +12245,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.723271",
-=======
   "modified": "2025-04-04 16:54:32.338515",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-rounded_total-print_hide",
   "property": "print_hide",
@@ -12547,11 +12262,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.728105",
-=======
   "modified": "2025-04-04 16:54:32.361605",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-disable_rounded_total-default",
   "property": "default",
@@ -12567,11 +12279,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.732950",
-=======
   "modified": "2025-04-04 16:54:32.387862",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-base_rounded_total-hidden",
   "property": "hidden",
@@ -12587,11 +12296,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.740007",
-=======
   "modified": "2025-04-04 16:54:32.413615",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12607,11 +12313,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.744727",
-=======
   "modified": "2025-04-04 16:54:32.438186",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-rounded_total-hidden",
   "property": "hidden",
@@ -12627,11 +12330,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.749339",
-=======
   "modified": "2025-04-04 16:54:32.461848",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-rounded_total-print_hide",
   "property": "print_hide",
@@ -12647,11 +12347,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.754026",
-=======
   "modified": "2025-04-04 16:54:32.487153",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-disable_rounded_total-default",
   "property": "default",
@@ -12667,11 +12364,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.758634",
-=======
   "modified": "2025-04-04 16:54:32.514131",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-base_rounded_total-hidden",
   "property": "hidden",
@@ -12687,11 +12381,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.765184",
-=======
   "modified": "2025-04-04 16:54:32.540877",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12707,11 +12398,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.769914",
-=======
   "modified": "2025-04-04 16:54:32.571614",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-rounded_total-hidden",
   "property": "hidden",
@@ -12727,11 +12415,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.774632",
-=======
   "modified": "2025-04-04 16:54:32.600055",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-rounded_total-print_hide",
   "property": "print_hide",
@@ -12747,11 +12432,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.779330",
-=======
   "modified": "2025-04-04 16:54:32.625455",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-disable_rounded_total-default",
   "property": "default",
@@ -12767,11 +12449,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.784266",
-=======
   "modified": "2025-04-04 16:54:32.648940",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-base_rounded_total-hidden",
   "property": "hidden",
@@ -12787,11 +12466,8 @@
   "doctype_or_field": "DocField",
   "field_name": "base_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.791445",
-=======
   "modified": "2025-04-04 16:54:32.679718",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-base_rounded_total-print_hide",
   "property": "print_hide",
@@ -12807,11 +12483,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.796710",
-=======
   "modified": "2025-04-04 16:54:32.705995",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-rounded_total-hidden",
   "property": "hidden",
@@ -12827,11 +12500,8 @@
   "doctype_or_field": "DocField",
   "field_name": "rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.802029",
-=======
   "modified": "2025-04-04 16:54:32.729817",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-rounded_total-print_hide",
   "property": "print_hide",
@@ -12847,11 +12517,8 @@
   "doctype_or_field": "DocField",
   "field_name": "disable_rounded_total",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.807247",
-=======
   "modified": "2025-04-04 16:54:32.756278",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-disable_rounded_total-default",
   "property": "default",
@@ -12867,11 +12534,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.812473",
-=======
   "modified": "2025-04-04 16:54:32.782348",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-in_words-hidden",
   "property": "hidden",
@@ -12887,11 +12551,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.817699",
-=======
   "modified": "2025-04-04 16:54:32.807475",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-in_words-print_hide",
   "property": "print_hide",
@@ -12907,11 +12568,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.822925",
-=======
   "modified": "2025-04-04 16:54:32.831947",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-in_words-hidden",
   "property": "hidden",
@@ -12927,11 +12585,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.828075",
-=======
   "modified": "2025-04-04 16:54:32.856980",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-in_words-print_hide",
   "property": "print_hide",
@@ -12947,11 +12602,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.833235",
-=======
   "modified": "2025-04-04 16:54:32.882883",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-in_words-hidden",
   "property": "hidden",
@@ -12967,11 +12619,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.838417",
-=======
   "modified": "2025-04-04 16:54:32.906889",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-in_words-print_hide",
   "property": "print_hide",
@@ -12987,11 +12636,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.843407",
-=======
   "modified": "2025-04-04 16:54:32.932610",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-in_words-hidden",
   "property": "hidden",
@@ -13007,11 +12653,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.848115",
-=======
   "modified": "2025-04-04 16:54:32.957172",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-in_words-print_hide",
   "property": "print_hide",
@@ -13027,11 +12670,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.853335",
-=======
   "modified": "2025-04-04 16:54:32.981581",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-in_words-hidden",
   "property": "hidden",
@@ -13047,11 +12687,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.858522",
-=======
   "modified": "2025-04-04 16:54:33.008978",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Supplier Quotation-in_words-print_hide",
   "property": "print_hide",
@@ -13067,11 +12704,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.863714",
-=======
   "modified": "2025-04-04 16:54:33.035308",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-in_words-hidden",
   "property": "hidden",
@@ -13087,11 +12721,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.868906",
-=======
   "modified": "2025-04-04 16:54:33.059953",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-in_words-print_hide",
   "property": "print_hide",
@@ -13107,11 +12738,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.874084",
-=======
   "modified": "2025-04-04 16:54:33.083683",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-in_words-hidden",
   "property": "hidden",
@@ -13127,11 +12755,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.879233",
-=======
   "modified": "2025-04-04 16:54:33.109729",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-in_words-print_hide",
   "property": "print_hide",
@@ -13147,11 +12772,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.884447",
-=======
   "modified": "2025-04-04 16:54:33.134894",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-in_words-hidden",
   "property": "hidden",
@@ -13167,11 +12789,8 @@
   "doctype_or_field": "DocField",
   "field_name": "in_words",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:28.889547",
-=======
   "modified": "2025-04-04 16:54:33.161400",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-in_words-print_hide",
   "property": "print_hide",
@@ -13187,11 +12806,8 @@
   "doctype_or_field": "DocField",
   "field_name": "naming_series",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.575913",
-=======
   "modified": "2025-04-04 16:54:35.548794",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Item-naming_series-reqd",
   "property": "reqd",
@@ -13207,11 +12823,8 @@
   "doctype_or_field": "DocField",
   "field_name": "naming_series",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.746515",
-=======
   "modified": "2025-04-04 16:54:36.063074",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Item-naming_series-hidden",
   "property": "hidden",
@@ -13227,11 +12840,8 @@
   "doctype_or_field": "DocField",
   "field_name": "item_code",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.752889",
-=======
   "modified": "2025-04-04 16:54:36.089299",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Item-item_code-hidden",
   "property": "hidden",
@@ -13247,11 +12857,8 @@
   "doctype_or_field": "DocField",
   "field_name": "item_code",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.759367",
-=======
   "modified": "2025-04-04 16:54:36.111543",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Item-item_code-reqd",
   "property": "reqd",
@@ -13267,11 +12874,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.766816",
-=======
   "modified": "2025-04-04 16:54:36.139062",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "POS Invoice Item-barcode-hidden",
   "property": "hidden",
@@ -13287,11 +12891,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.776087",
-=======
   "modified": "2025-04-04 16:54:36.170383",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice Item-barcode-hidden",
   "property": "hidden",
@@ -13307,11 +12908,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.783232",
-=======
   "modified": "2025-04-04 16:54:36.200888",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Job Card-barcode-hidden",
   "property": "hidden",
@@ -13327,11 +12925,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.791880",
-=======
   "modified": "2025-04-04 16:54:36.228790",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Item Barcode-barcode-hidden",
   "property": "hidden",
@@ -13347,11 +12942,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.801936",
-=======
   "modified": "2025-04-04 16:54:36.265289",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt Item-barcode-hidden",
   "property": "hidden",
@@ -13367,11 +12959,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.811717",
-=======
   "modified": "2025-04-04 16:54:36.299202",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Stock Reconciliation Item-barcode-hidden",
   "property": "hidden",
@@ -13387,11 +12976,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.821640",
-=======
   "modified": "2025-04-04 16:54:36.330868",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note Item-barcode-hidden",
   "property": "hidden",
@@ -13407,11 +12993,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.831416",
-=======
   "modified": "2025-04-04 16:54:36.360578",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Stock Entry Detail-barcode-hidden",
   "property": "hidden",
@@ -13427,11 +13010,8 @@
   "doctype_or_field": "DocField",
   "field_name": "barcodes",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.841841",
-=======
   "modified": "2025-04-04 16:54:36.401612",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Item-barcodes-hidden",
   "property": "hidden",
@@ -13441,7 +13021,6 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "POS Invoice",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -13458,19 +13037,14 @@
  },
  {
   "default_value": null,
-=======
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "doc_type": "Purchase Invoice",
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.858261",
-=======
   "modified": "2025-04-04 16:54:36.436796",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice-scan_barcode-hidden",
   "property": "hidden",
@@ -13486,11 +13060,8 @@
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.863882",
-=======
   "modified": "2025-04-04 16:54:36.466012",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice-scan_barcode-hidden",
   "property": "hidden",
@@ -13500,8 +13071,6 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
-=======
   "doc_type": "POS Invoice",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -13518,18 +13087,14 @@
  },
  {
   "default_value": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "doc_type": "Purchase Order",
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.869527",
-=======
   "modified": "2025-04-04 16:54:36.530930",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Order-scan_barcode-hidden",
   "property": "hidden",
@@ -13545,11 +13110,8 @@
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.875219",
-=======
   "modified": "2025-04-04 16:54:36.574432",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Order-scan_barcode-hidden",
   "property": "hidden",
@@ -13565,11 +13127,8 @@
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.880746",
-=======
   "modified": "2025-04-04 16:54:36.612984",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Quotation-scan_barcode-hidden",
   "property": "hidden",
@@ -13585,11 +13144,8 @@
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.886177",
-=======
   "modified": "2025-04-04 16:54:36.644319",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note-scan_barcode-hidden",
   "property": "hidden",
@@ -13605,11 +13161,8 @@
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.891886",
-=======
   "modified": "2025-04-04 16:54:36.676234",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt-scan_barcode-hidden",
   "property": "hidden",
@@ -13619,8 +13172,6 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
-=======
   "doc_type": "Pick List",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -13653,18 +13204,14 @@
  },
  {
   "default_value": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "doc_type": "Stock Entry",
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.897522",
-=======
   "modified": "2025-04-04 16:54:36.775276",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Stock Entry-scan_barcode-hidden",
   "property": "hidden",
@@ -13680,11 +13227,8 @@
   "doctype_or_field": "DocField",
   "field_name": "scan_barcode",
   "is_system_generated": 1,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.904997",
-=======
   "modified": "2025-04-04 16:54:36.809651",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Stock Reconciliation-scan_barcode-hidden",
   "property": "hidden",
@@ -13694,7 +13238,6 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
   "doc_type": "Material Request",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -13727,19 +13270,14 @@
  },
  {
   "default_value": null,
-=======
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "doc_type": "Sales Invoice Item",
   "docstatus": 0,
   "doctype": "Property Setter",
   "doctype_or_field": "DocField",
   "field_name": "target_warehouse",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.938980",
-=======
   "modified": "2025-04-04 16:54:36.917406",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Sales Invoice Item-target_warehouse-hidden",
   "property": "hidden",
@@ -13755,11 +13293,8 @@
   "doctype_or_field": "DocField",
   "field_name": "target_warehouse",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.945289",
-=======
   "modified": "2025-04-04 16:54:36.952509",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Delivery Note Item-target_warehouse-hidden",
   "property": "hidden",
@@ -13775,11 +13310,8 @@
   "doctype_or_field": "DocField",
   "field_name": "from_warehouse",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.951615",
-=======
   "modified": "2025-04-04 16:54:36.988875",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Invoice Item-from_warehouse-hidden",
   "property": "hidden",
@@ -13795,11 +13327,8 @@
   "doctype_or_field": "DocField",
   "field_name": "from_warehouse",
   "is_system_generated": 0,
-<<<<<<< HEAD
   "modified": "2025-04-11 19:08:29.959838",
-=======
   "modified": "2025-04-04 16:54:37.030413",
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "module": null,
   "name": "Purchase Receipt Item-from_warehouse-hidden",
   "property": "hidden",
@@ -13809,8 +13338,6 @@
  },
  {
   "default_value": null,
-<<<<<<< HEAD
-=======
   "doc_type": "Test Push",
   "docstatus": 0,
   "doctype": "Property Setter",
@@ -14755,7 +14282,6 @@
  },
  {
   "default_value": null,
->>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
   "doc_type": "Subcontracting Order",
   "docstatus": 0,
   "doctype": "Property Setter",
