@@ -47,6 +47,7 @@ doctype_js = {
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
+<<<<<<< HEAD
 fixtures=["Custom Field","Property Setter"]
     # "Labour Attendance Tool","Order Confirmation Form","Order Form Item","ERF Item Table","Estimation Request Form","Labour Attendance","Labours",
     # {"doctype":"Custom DocPerm"},
@@ -54,6 +55,26 @@ fixtures=["Custom Field","Property Setter"]
    # {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
     # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
 # ]
+=======
+# fixtures=[
+    # "Labour Attendance Tool","Order Confirmation Form","Order Form Item","ERF Item Table","Estimation Request Form","Labour Attendance","Labours",
+    # {"doctype":"Custom DocPerm"},
+    # {"doctype":"Custom Field", "filters":{"module": ["in", ["Homegenie"]]}},
+   # {"doctype":"Property Setter", "filters":{"module": ["in", ["Homegenie"]]}},
+   # {"doctype":"DocType", "filters":{"module": ["in", ["Homegenie"]]}}
+    # {"doctype":"Client Script","filters":[["module", "=", "Homegenie"]]}
+
+
+# fixtures = [ "Custom Field","Property Setter"]
+    # {
+    #     "dt": "Custom Field",
+    #     "filters": [
+    #         ["name", "=", "custom_kac"] 
+    #     ]
+    # }
+
+
+>>>>>>> 9efac5229ffa9f772ee3727bf9f34112504c74d2
 
 # Home Pages
 # ----------
@@ -149,8 +170,8 @@ doc_events = {
     }
 }
 
-# Scheduled Tasks
-# ---------------
+# # Scheduled Tasks
+# # ---------------
 scheduler_events = {
 	"cron": {
 		"*/30 * * * *" : [
@@ -159,21 +180,21 @@ scheduler_events = {
     }
 }
 # scheduler_events = {
-#	"all": [
-#		"homegenie_custom_app.tasks.all"
-#	],
-#	"daily": [
-#		"homegenie_custom_app.tasks.daily"
-#	],
-#	"hourly": [
-#		"homegenie_custom_app.tasks.hourly"
-#	],
-#	"weekly": [
-#		"homegenie_custom_app.tasks.weekly"
-#	],
-#	"monthly": [
-#		"homegenie_custom_app.tasks.monthly"
-#	],
+# 	"all": [
+# 		"homegenie_custom_app.tasks.all"
+# 	],
+# 	"daily": [
+# 		"homegenie_custom_app.tasks.daily"
+# 	],
+# 	"hourly": [
+# 		"homegenie_custom_app.tasks.hourly"
+# 	],
+# 	"weekly": [
+# 		"homegenie_custom_app.tasks.weekly"
+# 	],
+# 	"monthly": [
+# 		"homegenie_custom_app.tasks.monthly"
+# 	],
 # }
 
 # Testing
